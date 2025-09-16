@@ -1,0 +1,65 @@
+{
+  "category": "miscellaneous",
+  "created_date": "2025-09-15T22:48:57.409263",
+  "default_ports": [
+    80,
+    443,
+    10010
+  ],
+  "dependencies": [
+    "runc",
+    "iptables"
+  ],
+  "description": "cri-o is a free and open-source lightweight container runtime for Kubernetes. CRI-O provides a minimal runtime specifically for Kubernetes, serving as an alternative to Docker or containerd",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/miscellaneous/cri-o",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/miscellaneous/cri-o",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:57.409287",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "cri-o",
+  "repository_url": "https://github.com/howtomgr/cri-o",
+  "spec_version": "2.0",
+  "subcategory": "miscellaneous",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "miscellaneous",
+    "containerization",
+    "orchestration",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "cri-o Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/miscellaneous/cri-o"
+}
